@@ -28,6 +28,19 @@ Architecture-first thinking shifts a developer’s role from just writing code t
 
 Thinking in layers helps you understand how different parts of the system connect and depend on each other. It avoids messy code and makes the project scalable, secure, and easier to update. Raw coding focuses only on single functions, but layered thinking ensures the whole system works smoothly as one unit.
 
+## Task B : 
+### My Prompt : 
+
+![User Prompt](user-prompt.PNG)
+
+### Gemini CLI response
+
+![Gemini CLI Response](gemini-cli-response.PNG)
+
+
+
+
+## Task C :
 ## MCQS : 
 
 ### 1.  What is the main purpose of Spec-Driven Development?
@@ -56,9 +69,4 @@ B. Deep in only one field
 C. Deep skills in multiple related domains(Right)
 D. Works without AI tools
 
-## Task B 
-
-![User Prompt](user-prompt.PNG)
-
-![Gemini CLI Response](gemini-cli-response.PNG)
 Thinking in layers helps you understand how different parts of the system connect and depend on each other. It avoids messy code and makes the project scalable, secure, and easier to update. Raw coding focuses only on single functions, but layered thinking ensures the whole system works smoothly as one unit.
